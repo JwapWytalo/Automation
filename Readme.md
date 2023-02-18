@@ -1,0 +1,1 @@
+During my vacation, I decided to learn about automation with Python. I have some algorithms hosted in this repository that make my life easier.
